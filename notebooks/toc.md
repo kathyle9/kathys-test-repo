@@ -1,0 +1,13 @@
+# [kathys-test-repo](https://kathyle9.github.io/kathys-test-repo)
+
+### [2.1 Pose Basics](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb)
+- [Loading in a PDB File ##](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Loading-in-a-PDB-File-##)
+    - [Exercise 1: Inspecting pose sequences](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Exercise-1:-Inspecting-pose-sequences)
+    - [Bonus Exercise 1: Identifying differences in sequences](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Bonus-Exercise-1:-Identifying-differences-in-sequences)
+- [Working with Pose residues ##](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Working-with-Pose-residues-##)
+    - [Exercise 2: Residue objects](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Exercise-2:-Residue-objects)
+- [Accessing PyRosetta Documentation ##](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Accessing-PyRosetta-Documentation-##)
+    - [Exercise 3: Python Object Help](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Exercise-3:-Python-Object-Help)
+    - [Exercise 4: Some residue commands](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Exercise-4:-Some-residue-commands)
+- [Getting spatial features from a Pose ##](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Getting-spatial-features-from-a-Pose-##)
+- [References](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#References)
