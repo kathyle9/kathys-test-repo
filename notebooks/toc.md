@@ -11,3 +11,21 @@
     - [Exercise 4: Some residue commands](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Exercise-4:-Some-residue-commands)
 - [Getting spatial features from a Pose ##](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#Getting-spatial-features-from-a-Pose-##)
 - [References](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.01-Pose-Basics.ipynb#References)
+
+### [2.2 Protein Geometry and Visualization](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb)
+- [Rosetta Database Files](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Rosetta-Database-Files)
+    - [Exercise 5: Calculating psi angle](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Exercise-5:-Calculating-psi-angle)
+- [Manipulating Protein Geometry](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Manipulating-Protein-Geometry)
+- [Visualization and the PyMOL Mover](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Visualization-and-the-PyMOL-Mover)
+    - [Exercise 7: Visualizing changes in backbone angles](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Exercise-7:-Visualizing-changes-in-backbone-angles)
+- [Additional Exercises ##](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Additional-Exercises-##)
+    - [Analyzing Amino Acid Patterns](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Analyzing-Amino-Acid-Patterns)
+    - [Active Site Residues](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Active-Site-Residues)
+- [Answers](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Answers)
+    - [Exercise 6](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#Exercise-6)
+- [References](http://nbviewer.jupyter.org/github/kathyle9/kathys-test-repo/blob/master/notebooks/02.02-Protein-Geometry-and-Visualization.ipynb#References)
+* Figures
+    - [SegmentLocal](PyMOL-tutorial.gif "PyMOL")
+* Links
+    - [Ramachandran plot](http://kinemage.biochem.duke.edu/teaching/anatax/html/anatax.1b.html)
+    - [Richardson's Anatomy and Taxonomy of Protein Structure](http://kinemage.biochem.duke.edu/teaching/anatax/)
